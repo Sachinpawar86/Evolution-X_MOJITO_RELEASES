@@ -1,6 +1,6 @@
-#Evolution-X #V10.7 #Unofficial #ROM #Stable #Mojito/Sunny #OSS | GAPPS | Android 15
+#Evolution-X #V11.1 #Unofficial #ROM #Stable #Mojito/Sunny #OSS | GAPPS | Android 16
 
-📱 Version: 10.7 (11/06/2025)
+📱 Version: 11.1 (11/08/2025)
 
 🛠️ Type: STABLE 
 
