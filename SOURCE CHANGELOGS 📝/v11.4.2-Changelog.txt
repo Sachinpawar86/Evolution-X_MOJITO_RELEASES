@@ -1,0 +1,12 @@
+EVOLUTIONX-VERSION:11.4.2
+==============================
+Notable ROM changes:
+==============================
+This is Android 16 with December 2025 security patches
+component-overrides: Add more google components
+device_config: enable new now playing QS tile and updated lockscreen UI
+device_config: cleanup and update from 16 QPR2
+PixelPropsUtils: Update fingerprints to December 2025 release
+PixelPropsUtils: Skip play Integrity props in isolated processes
+SystemUI: Use a16 wifi signal icon by default
+version: Uprev to 11.4.2
